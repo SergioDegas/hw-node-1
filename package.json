@@ -1,0 +1,25 @@
+{
+  "name": "hw-node-1",
+  "version": "1.0.0",
+  "description": "project with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Sergio Degas",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioDegas/hw-node-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SergioDegas/hw-node-1/issues"
+  },
+  "homepage": "https://github.com/SergioDegas/hw-node-1#readme"
+}
